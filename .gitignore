@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Output
+Intermediate
+Win32
+x64
+
+# Visual Studio
+.vs
+*.user
