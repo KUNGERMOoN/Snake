@@ -39,3 +39,6 @@ x64
 # Visual Studio
 .vs
 *.user
+
+# Other
+Data.txt
